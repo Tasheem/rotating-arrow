@@ -35,6 +35,11 @@ body {
     box-shadow: 5px 10px 8px  rgb(204, 0, 0);
 }
 
+#stop-btn:hover {
+    background-color: rgb(151, 0, 0);
+    box-shadow: 5px 10px 8px  rgb(153, 0, 0);
+}
+
 #arrow {
     position: absolute;
     top: 10vh;
